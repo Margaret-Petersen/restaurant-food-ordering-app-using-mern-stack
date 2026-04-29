@@ -1,5 +1,5 @@
 <h2 style="text-align:center">Restaurant Food Ordering App Using Mern Stack </h2>
- 
- ![Restaurant Food Ordering App Using Mern Stack](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/margaret/restaurant%20food%20ordering%20app%20using%20mern%20stack.webp) 
- 
- The Restaurant Food Ordering App Using Mern Stack frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/margaret-restaurant-food-ordering-app-using-mern-stack" target="_blank">click here</a>.
+  
+  ![Restaurant Food Ordering App Using Mern Stack](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/margaret/restaurant%20food%20ordering%20app%20using%20mern%20stack.webp) 
+  
+  The Restaurant Food Ordering App Using Mern Stack frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=margaret-restaurant-food-ordering-app-using-mern-stack" target="_blank">click here</a>.
